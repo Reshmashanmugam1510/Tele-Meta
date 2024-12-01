@@ -8,6 +8,11 @@ const Navbar = () => {
         home
     </h1>
  </div>
+ <div className="comtainer">
+    <h1>
+        home
+    </h1>
+ </div>
       <p>Hello</p>
     </div>
   )
